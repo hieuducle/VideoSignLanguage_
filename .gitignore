@@ -1,0 +1,11 @@
+.venv/
+.venvs/
+__pycache__/
+data/
+detector/
+model_files/
+models/
+pretrained_models/
+pytorch3d/
+res/
+model.h5/

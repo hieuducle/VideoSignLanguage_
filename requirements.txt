@@ -1,0 +1,11 @@
+omegaconf
+loguru
+smplx
+opencv-python
+tqdm
+pyyaml
+configargparse
+pose-format
+tensorflow
+ffmpeg-python
+bpy
