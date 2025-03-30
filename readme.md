@@ -7,15 +7,33 @@
 Nghiên cứu đề xuất các phương pháp thể hiện ngôn ngữ cử chỉ và đề xuất cải tiến hệ thống dịch ngôn ngữ cử chỉ mô phỏng ngôn ngữ ký hiệu
 bằng các nhân vật 3D.
 
-## NỘI DUNG
-<p align="center"> <img src="tong_quan.png" width=600 height=500 ><br/> </p>
-* Hướng cải tiến 1: Đề xuất thêm phương pháp pose estimation: Alphapose thay thế cho Openpose và tích hợp vào hệ thống.
-<p align="center"> <img src="alphapose.png" width=600 height=500 ><br/> </p>
-* Hướng cải tiến 2: Đề xuất sử dụng phương pháp tạo dữ liệu chuyển động khung xương 3d bằng Hybrik-X và xây dựng lại hệ thống.
-<p align="center"> <img src="hybrik_x.png" width=600 height=500 ><br/> </p>
+* Hệ thống:<br/>
+Input: câu, từ (chuẩn ngữ pháp ngôn ngữ cử chỉ)<br/>
+Output: nhân vật 3D thể hiện ý nghĩa câu đầu vào.
 
 ## DEMO
-<!-- <p align="center">
-  <img src="output/output.gif" width=600><br/>
-  <i>Camera app demo</i>
-</p> -->
+* Hướng phát triển 1: Cải tiến tối ưu về tốc độ
+<p align="center">
+  <img src="assets/output.gif" width=600><br/>
+  <i>Hài lòng</i>
+</p> 
+* Hướng phát triển 2: Cải tiến tối ưu về tốc độ và độ chính xác.
+<p align="center">
+  <img src="assets/hybrik_x.gif" width=600><br/>
+  <i>Ả Rập</i>
+</p> 
+<p align="center">
+  <img src="assets/final_demo_sentences.gif" width=600><br/>
+  <i>Câu hoàn chỉnh</i>
+</p> 
+
+## NỘI DUNG
+<p align="center"> <img src="assets/tong_quan.png" width=600 height=500 ><br/> </p>
+* Hướng phát triển 1: Đề xuất thêm phương pháp pose estimation: Alphapose thay thế cho Openpose và tích hợp vào hệ thống.
+<p align="center"> <img src="assets/alphapose.png" width=600 height=500 ><br/> </p>
+* Hướng phát triển 2: Đề xuất sử dụng phương pháp tạo dữ liệu chuyển động khung xương 3d bằng Hybrik-X và xây dựng lại hệ thống.
+<p align="center"> <img src="assets/hybrik_x.png" width=600 height=500 ><br/> </p>
+
+
+
+
