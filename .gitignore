@@ -25,3 +25,5 @@ pretrained_models/
 pytorch3d/
 res/
 model.h5/
+*.mp4
+
