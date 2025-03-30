@@ -12,7 +12,7 @@ Input: câu, từ (chuẩn ngữ pháp ngôn ngữ cử chỉ)<br/>
 Output: nhân vật 3D thể hiện ý nghĩa câu đầu vào.
 
 ## DEMO
-* Hướng phát triển 1: Cải tiến tối ưu về tốc độ
+* Hướng phát triển 1: Cải tiến tối ưu về tốc độ hệ thống.
 <p align="center">
   <img src="assets/output.gif" width=600><br/>
   <i>Hài lòng</i>
