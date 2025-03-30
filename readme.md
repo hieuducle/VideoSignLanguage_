@@ -28,10 +28,10 @@ Output: nhân vật 3D thể hiện ý nghĩa câu đầu vào.
 </p> 
 
 ## NỘI DUNG
-<p align="center"> <img src="assets/tong_quan.png" width=600 height=500 ><br/> </p>
-* Hướng phát triển 1: Đề xuất thêm phương pháp pose estimation: Alphapose thay thế cho Openpose và tích hợp vào hệ thống.
+<p align="center"> <img src="assets/tong_quan.png" width=600 height=500 ><br/> </p> 
+* Hướng phát triển 1: Đề xuất thêm phương pháp pose estimation: Alphapose <a> https://github.com/MVIG-SJTU/AlphaPose </a> thay thế cho Openpose và tích hợp vào hệ thống.
 <p align="center"> <img src="assets/alphapose.png" width=600 height=500 ><br/> </p>
-* Hướng phát triển 2: Đề xuất sử dụng phương pháp tạo dữ liệu chuyển động khung xương 3d bằng Hybrik-X và xây dựng lại hệ thống.
+* Hướng phát triển 2: Đề xuất sử dụng phương pháp tạo dữ liệu chuyển động khung xương 3d bằng Hybrik-X <a>https://github.com/jeffffffli/HybrIK/tree/main?tab=readme-ov-file</a> và xây dựng lại hệ thống.
 <p align="center"> <img src="assets/hybrik_x.png" width=600 height=500 ><br/> </p>
 
 
